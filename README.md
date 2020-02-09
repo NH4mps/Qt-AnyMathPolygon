@@ -5,3 +5,5 @@ For now using this library allows you:
   -to calculate the square of polygons;
   -to calculate the perimeter of polygons;
   -to calculate the square of intersection of polygons
+
+To use the lib you have to copy anymathpolygon.h and anymathpolygon.cpp to your project
